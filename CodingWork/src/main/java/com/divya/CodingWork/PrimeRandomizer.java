@@ -1,5 +1,7 @@
 package com.divya.CodingWork;
-
+/*
+ * @author divyauppalapati
+ */
 import javax.jms.Connection;
 import javax.jms.ConnectionFactory;
 import javax.jms.Destination;
